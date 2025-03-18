@@ -1,4 +1,4 @@
-# minimal-posets
+# Minimal posets
 
 Minimal posets that have a given number of antichains. This is also the poset structure of minimal conjunctive networks with a given number of stable steady states. Page s corresponds to s antichains. The first page contains the empty set.
 
